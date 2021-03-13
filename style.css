@@ -1,0 +1,15 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: aliceblue;
+}
+.carousel-item {
+    height: 25rem;
+    background: #000;
+}
+
+.carousel-item img {
+    opacity: 0.5;
+}
+section {
+    padding-top: 6rem;
+}
